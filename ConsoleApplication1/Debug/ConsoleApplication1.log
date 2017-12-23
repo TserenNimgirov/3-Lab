@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+c:\users\церен\desktop\лабы по оаип\3\consoleapplication1\consoleapplication1\consoleapplication1.cpp(4): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  c:\users\церен\desktop\лабы по оаип\3\consoleapplication1\consoleapplication1\consoleapplication1.cpp(4): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  c:\users\церен\desktop\лабы по оаип\3\consoleapplication1\consoleapplication1\consoleapplication1.cpp(9): note: использование предварительно скомпилированного заголовка
+c:\users\церен\desktop\лабы по оаип\3\consoleapplication1\consoleapplication1\consoleapplication1.cpp(17): error C3861: system: идентификатор не найден
+c:\users\церен\desktop\лабы по оаип\3\consoleapplication1\consoleapplication1\consoleapplication1.cpp(18): error C3861: system: идентификатор не найден
+c:\users\церен\desktop\лабы по оаип\3\consoleapplication1\consoleapplication1\consoleapplication1.cpp(30): error C3861: _getch: идентификатор не найден
+c:\users\церен\desktop\лабы по оаип\3\consoleapplication1\consoleapplication1\consoleapplication1.cpp(35): error C3861: strlen: идентификатор не найден
